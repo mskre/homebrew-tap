@@ -1,6 +1,6 @@
 cask "ai-usage-bar" do
   version "1.0.0"
-  sha256 "2ce81d2c9457890fa4938a75879f5becc425b1c1a81f58aaeb934d16b6a83497"
+  sha256 "ce4fc4c1b0042eb2fca0721d0ad2a6ebd7195836c09802a1cdec7e3a06292b33"
 
   url "https://github.com/mskre/homebrew-tap/releases/download/v#{version}/AIUsageBar-#{version}.zip"
   name "AI Usage Bar"
