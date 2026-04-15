@@ -1,6 +1,6 @@
 cask "bitstraum-usage" do
-  version "1.0.0"
-  sha256 "d026ae8f16d92ac0978a8b638f0ec899140f5e7d0fd06479171cdd74eaaf1b6b"
+  version "1.1.0"
+  sha256 "66da3224dcb5b2cd549d9ff0def7d13569522ecc945d741dceba93e80ac2340a"
 
   url "https://github.com/mskre/homebrew-tap/releases/download/v#{version}/BitstraumUsage-#{version}.zip"
   name "Bitstraum Usage"
