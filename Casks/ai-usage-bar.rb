@@ -11,6 +11,11 @@ cask "ai-usage-bar" do
 
   app "AI Usage Bar.app"
 
+  postflight do
+    system_command "/usr/bin/xattr",
+                   args: ["-cr", "#{appdir}/AI Usage Bar.app"]
+  end
+
   zap trash: [
     "~/Library/Application Support/AIUsageBar",
   ]
