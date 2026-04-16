@@ -1,8 +1,8 @@
 cask "bitstraum-usage" do
-  version "1.2.0"
-  sha256 "58cdebff256f070628125fef4b3c6493d1714e13f94df35f7e06bf219cc51b1b"
+  version "1.3.0"
+  sha256 "4193cc515d6952e93ff1fa43677994938711dc7a47ca2091549908d92e1dec5b"
 
-  url "https://github.com/mskre/bitstraum-usage/releases/download/v1.2.0/BitstraumUsage-1.2.0.zip"
+  url "https://github.com/mskre/bitstraum-usage/releases/download/v1.3.0/BitstraumUsage-1.3.0.zip"
   name "Bitstraum Usage"
   desc "Menu bar app showing AI provider usage limits"
   homepage "https://github.com/mskre/bitstraum-usage"
